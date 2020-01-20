@@ -10,10 +10,5 @@ public class LoginBean {
 	public void setUserName(String userName) {
 	 this.userName = userName;
 	 }
-	 public String getPassword() {
-	 return password;
-	 }
-	 public void setPassword(String password) {
-	 this.password = password;
-	 }
+	task is done by shuvika
 }
